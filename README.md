@@ -1,2 +1,2 @@
 # datos 
-repo para clase de Datos I 
+Classwork for 2021 Data course
